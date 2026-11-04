@@ -1,4 +1,4 @@
-# Harshani Madushani — Portfolio
+# Harshani Madushani — Portfolio new
 
 A responsive personal portfolio built with **HTML, CSS, and vanilla JavaScript**. No frameworks, build tools, or backend required.
 
